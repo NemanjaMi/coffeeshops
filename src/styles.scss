@@ -1,0 +1,37 @@
+/* You can add global styles to this file, and also import other style files */
+
+header {
+  background-color: #ddb893;
+  -webkit-box-shadow: 0px 5px 13px 0px rgba(171, 170, 169, 1);
+  -moz-box-shadow: 0px 5px 13px 0px rgba(171, 170, 169, 1);
+  box-shadow: 0px 5px 13px 0px rgba(171, 170, 169, 1);
+      margin-bottom: 50px;
+  img {
+    width: 80px;
+    padding: 10px;
+    margin: auto;
+    display: block;
+  }
+}
+
+footer {
+ 
+  background-color: #ddb893;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+  -webkit-box-shadow: 0px -5px 13px 0px rgba(171,170,169,1);
+-moz-box-shadow: 0px -5px 13px 0px rgba(171,170,169,1);
+box-shadow: 0px -5px 13px 0px rgba(171,170,169,1);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {}
